@@ -1,2 +1,2 @@
 # Arq.DDD
-Integracion todos los Componentes de Arquitectura DDD
+Integracion de todos los Componentes de Arquitectura DDD para ITK
